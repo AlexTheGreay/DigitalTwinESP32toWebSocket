@@ -24,8 +24,8 @@ String serverName = "wss://cvyykl1zo6.execute-api.us-east-1.amazonaws.com/prod";
 const char* API_KEY = "zQXx6dS25g1osj74gXAL51nAmdAOBANL2gAvR3O8"; //Your AWS API-Key
 
 // Wifi Credentials
-const char* ssid = "franhome3";
-const char* password = "Ajfr@N93.";
+const char* ssid     = "SSID";
+const char* password = "Password";
 
 WebSocketsClient webSocket; // websocket client class instance
 StaticJsonDocument<100> doc; // Allocate a static JSON document
