@@ -13,8 +13,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "franhome3";
-const char* password = "Ajfr@N93.";
+const char* ssid     = "SSID";
+const char* password = "Password";
 
 //Your Domain name with URL path or IP address with path
 String serverName = "https://cvyykl1zo6.execute-api.us-east-1.amazonaws.com/prod"; //aws API Gateway url, Need htps:// pre-fix for ESP32 sketch
