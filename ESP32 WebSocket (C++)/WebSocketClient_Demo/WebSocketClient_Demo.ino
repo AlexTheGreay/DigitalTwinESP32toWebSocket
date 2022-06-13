@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebSocketClient.h>
 
-const char* ssid     = "franhome3";
-const char* password = "Ajfr@N93.";
+const char* ssid     = "SSID";
+const char* password = "PASSWORD";
 char path[] = "/echo";
 char host[] = "wss://cvyykl1zo6.execute-api.us-east-1.amazonaws.com/prod";
   
